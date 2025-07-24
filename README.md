@@ -1,0 +1,1 @@
+This project is a  book management app for PageTurn Publishing, build with react.
